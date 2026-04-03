@@ -78,13 +78,12 @@ Rentabilidade: O retorno financeiro ou remuneração esperada pelo investimento
 . Os exemplos mais conhecidos de valores mobiliários incluem ações, debêntures, e cotas de fundos de investimento
 
 Aqui estão 3 perguntas de múltipla escolha elaboradas para testar conhecimentos sobre a Reserva de Emergência, baseadas nos textos fornecidos:
+
 Pergunta 1: Qual é o principal objetivo de se formar uma reserva financeira de emergência? A) Garantir um alto retorno financeiro investindo todo o capital em ações na Bolsa de Valores. B) Acumular recursos exclusivamente para a realização de viagens e para a aposentadoria no longo prazo. C) Cobrir despesas imprevistas e eventualidades, sendo um cuidado importante para evitar que o indivíduo caia no endividamento excessivo. D) Pagar contas previsíveis e sazonais, como o IPVA, IPTU e materiais escolares no início do ano.
-Resposta Correta: C. A reserva de emergência serve para cobrir gastos inesperados, como um defeito no veículo ou problemas de saúde, evitando o endividamento diante desses obstáculos
-.
+Resposta Correta: C. A reserva de emergência serve para cobrir gastos inesperados, como um defeito no veículo ou problemas de saúde, evitando o endividamento diante desses obstáculos.
 --------------------------------------------------------------------------------
 Pergunta 2: De acordo com as opções oferecidas pelo Tesouro Direto, qual título é o mais indicado para quem deseja começar a montar uma reserva de emergência? A) Tesouro Prefixado, pois o investidor saberá exatamente o valor que receberá no futuro. B) Tesouro IPCA+, pois protege os recursos contra a desvalorização causada pela inflação no longo prazo. C) Tesouro IPCA+ com Juros Semestrais, pois permite que o investidor receba uma renda periódica a cada seis meses. D) Tesouro Selic, pois é um investimento ideal para curto prazo e para quem não deseja se preocupar com as variações e o prazo de resgate do dinheiro.
-Resposta Correta: D. O Tesouro Selic é o título mais recomendado para começar uma reserva de emergência, pois acompanha a taxa básica de juros e não oferece sobressaltos caso o resgate do dinheiro precise ser feito no curto prazo
-.
+Resposta Correta: D. O Tesouro Selic é o título mais recomendado para começar uma reserva de emergência, pois acompanha a taxa básica de juros e não oferece sobressaltos caso o resgate do dinheiro precise ser feito no curto prazo.
 --------------------------------------------------------------------------------
 Pergunta 3: Qual é uma regra essencial (ou desafio) para que a formação de uma reserva de emergência (poupança para eventualidades) funcione de maneira adequada? A) Concentrar a reserva em investimentos de baixíssima liquidez para evitar retiradas. B) Ter a disciplina de não cair na tentação de utilizar os recursos acumulados para satisfazer desejos de consumo. C) Gastar os recursos no final de cada ano para aproveitar descontos e iniciar a poupança do zero no ano seguinte. D) Deixar o dinheiro guardado em casa para que ele não sofra com a cobrança de nenhuma taxa ou imposto.
-Resposta Correta: B. Para que uma poupança destinada a circunstâncias não esperadas funcione, um dos requisitos mais importantes é não ceder à tentação de usar esses recursos reservados para o consumo de bens e desejos no dia a dia
+Resposta Correta: B. Para que uma poupança destinada a circunstâncias não esperadas funcione, um dos requisitos mais importantes é não ceder à tentação de usar esses recursos reservados para o consumo de bens e desejos no dia a dia.
